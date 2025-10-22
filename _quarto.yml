@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
+  title: "Riantama Putra"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18224061 Riantama Putra"
+  date: "10/22/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
@@ -31,6 +31,3 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-
-
-

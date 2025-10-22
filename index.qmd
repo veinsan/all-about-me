@@ -1,84 +1,20 @@
----
-title: "Selamat Datang di Ruang Refleksi Diri"
-format: html
-page-layout: full
-image: images/cover.png
----
+# Hello, World! {.unnumbered}
 
-<section class="welcome">
-<div class="intro-text">
+![Kenalan Dikit](images/rian.jpeg){width=950%}
 
-# Hello World! 👋  
-## Saya [Nama Kamu]
+Perkenalkan Rian! Mahasiswa ITB, Sistem dan Teknologi Informasi Angkatan 2024.  
+Website ini dibuat sebagai bagian dari pemenuhan nilai Ujian Tengah Semester mata kuliah Komunikasi Interpersonal dan Publik (II2100).  
 
-Selamat datang di ruang refleksi diri dan perjalanan pembelajaran saya pada mata kuliah **Komunikasi Interpersonal**.  
-Website ini dibuat sebagai portofolio digital untuk menunjukkan pemahaman saya terhadap berbagai konsep komunikasi — mulai dari bagaimana kita berinteraksi, memahami diri, menafsirkan realitas, hingga menyampaikan pesan tanpa kata.  
+Tujuan utama dari situs ini adalah untuk menampilkan refleksi dan hasil pembelajaran saya selama mengikuti mata kuliah ini, mulai dari pemahaman diri dan komunikasi antarpribadi, hingga bagaimana konsep-konsep tersebut diterapkan dalam kehidupan akademik dan profesional.  
 
-Tujuannya bukan hanya untuk memenuhi tugas, tetapi juga untuk mengevaluasi diri: sejauh mana saya mampu menerapkan prinsip komunikasi yang efektif, beretika, dan berlandaskan nilai-nilai kemanusiaan.
+Di dalam website ini, Anda akan menemukan lima bagian utama yang mewakili setiap topik penilaian UTS:
 
----
+- **UTS-1:** All About Me  
+- **UTS-2:** My Songs for You  
+- **UTS-3:** My Stories for You  
+- **UTS-4:** My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)  
+- **UTS-5:** My Personal Reviews  
 
-### Yuk Kenalan!
-Klik tombol di bawah ini untuk menjelajahi tiap bagian perjalanan saya:
+Saya berharap melalui portofolio ini, Anda dapat melihat proses saya dalam memahami, mengevaluasi, dan mengembangkan keterampilan komunikasi yang lebih efektif. Baik dalam konteks pribadi, akademik, maupun sosial.  
 
-<div class="nav-links">
-  <a href="All_About_me/index.html" class="btn">Tentang Saya</a>
-  <a href="UTS_1/index.html" class="btn">UTS 1</a>
-  <a href="UTS_2/index.html" class="btn">UTS 2</a>
-  <a href="UTS_3/index.html" class="btn">UTS 3</a>
-  <a href="UTS_4/index.html" class="btn">UTS 4</a>
-</div>
-
-</div>
-
-<div class="profile-img">
-  <img src="images/yourphoto.jpg" alt="Foto Profil" />
-</div>
-</section>
-
-<style>
-body {
-  background-color: #0d0d0d;
-  color: #f2f2f2;
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
-  padding: 0;
-}
-.welcome {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 80px;
-}
-.intro-text {
-  width: 55%;
-}
-.intro-text h1, .intro-text h2 {
-  color: #e3e3e3;
-}
-.nav-links {
-  margin-top: 30px;
-}
-.btn {
-  background: #9b59b6;
-  color: white;
-  padding: 12px 24px;
-  border-radius: 6px;
-  margin-right: 10px;
-  text-decoration: none;
-  transition: 0.3s;
-}
-.btn:hover {
-  background: #b07ce5;
-}
-.profile-img img {
-  width: 300px;
-  border-radius: 50%;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
-}
-@media (max-width: 900px) {
-  .welcome { flex-direction: column; text-align: center; }
-  .intro-text, .profile-img { width: 100%; }
-  .profile-img img { margin-top: 30px; }
-}
-</style>
+Atur-atur sendiri lah ya :>
