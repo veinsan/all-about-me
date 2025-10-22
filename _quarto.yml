@@ -1,5 +1,5 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
 book:
@@ -29,5 +29,3 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
