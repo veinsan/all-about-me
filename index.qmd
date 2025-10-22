@@ -1,22 +1,84 @@
-# Selamat Berjumpa {.unnumbered}
+---
+title: "Selamat Datang di Ruang Refleksi Diri"
+format: html
+page-layout: full
+image: images/cover.png
+---
 
-![About Me](images/AZRL.png){width=950%}
+<section class="welcome">
+<div class="intro-text">
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+# Hello World! 👋  
+## Saya [Nama Kamu]
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Selamat datang di ruang refleksi diri dan perjalanan pembelajaran saya pada mata kuliah **Komunikasi Interpersonal**.  
+Website ini dibuat sebagai portofolio digital untuk menunjukkan pemahaman saya terhadap berbagai konsep komunikasi — mulai dari bagaimana kita berinteraksi, memahami diri, menafsirkan realitas, hingga menyampaikan pesan tanpa kata.  
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+Tujuannya bukan hanya untuk memenuhi tugas, tetapi juga untuk mengevaluasi diri: sejauh mana saya mampu menerapkan prinsip komunikasi yang efektif, beretika, dan berlandaskan nilai-nilai kemanusiaan.
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+---
 
+### Yuk Kenalan!
+Klik tombol di bawah ini untuk menjelajahi tiap bagian perjalanan saya:
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
+<div class="nav-links">
+  <a href="All_About_me/index.html" class="btn">Tentang Saya</a>
+  <a href="UTS_1/index.html" class="btn">UTS 1</a>
+  <a href="UTS_2/index.html" class="btn">UTS 2</a>
+  <a href="UTS_3/index.html" class="btn">UTS 3</a>
+  <a href="UTS_4/index.html" class="btn">UTS 4</a>
+</div>
 
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
+</div>
 
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
+<div class="profile-img">
+  <img src="images/yourphoto.jpg" alt="Foto Profil" />
+</div>
+</section>
 
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+<style>
+body {
+  background-color: #0d0d0d;
+  color: #f2f2f2;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.welcome {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px;
+}
+.intro-text {
+  width: 55%;
+}
+.intro-text h1, .intro-text h2 {
+  color: #e3e3e3;
+}
+.nav-links {
+  margin-top: 30px;
+}
+.btn {
+  background: #9b59b6;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  margin-right: 10px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.btn:hover {
+  background: #b07ce5;
+}
+.profile-img img {
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+@media (max-width: 900px) {
+  .welcome { flex-direction: column; text-align: center; }
+  .intro-text, .profile-img { width: 100%; }
+  .profile-img img { margin-top: 30px; }
+}
+</style>
