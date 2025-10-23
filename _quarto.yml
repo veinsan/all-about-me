@@ -3,10 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Riantama Putra"
-  subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "18224061 Riantama Putra"
-  date: "10/22/2025"
+  title: "Portfolio Asesmen II-2100 KIPP"
   navbar:
     left:
       - href: index.qmd
@@ -21,6 +18,8 @@ website:
         text: UTS-4
       - href: My_Personal_Reviews/index.qmd
         text: UTS-5
+  page-footer:
+    left: "© 2025 Riantama Putra – Institut Teknologi Bandung"
 
 format:
   html:
