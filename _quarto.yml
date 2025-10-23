@@ -2,30 +2,27 @@ project:
   type: website
   output-dir: docs
 
-book:
+website:
   title: "Riantama Putra"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
   author: "18224061 Riantama Putra"
   date: "10/22/2025"
-  chapters:
-    - index.qmd
-    - All_About_me/index.qmd
-    - My_Song_for_You/index.qmd
-    - My_Stories_for_You/index.qmd
-    - My_Shapes/index.qmd
-    - My_Personal_Reviews/index.qmd
-    - My_Concepts/index.qmd
-    - My_Opinions/index.qmd
-    - My_Innovations/index.qmd
-    - My_Knowledge/index.qmd
-    - My_Professional_Reviews/index.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: All_About_me/index.qmd
+        text: UTS-1
+      - href: My_Song_for_You/index.qmd
+        text: UTS-2
+      - href: My_Stories_for_You/index.qmd
+        text: UTS-3
+      - href: My_Shapes/index.qmd
+        text: UTS-4
+      - href: My_Personal_Reviews/index.qmd
+        text: UTS-5
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
+    toc: true
