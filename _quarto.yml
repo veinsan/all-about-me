@@ -18,8 +18,19 @@ website:
         text: UTS-4
       - href: My_Personal_Reviews/index.qmd
         text: UTS-5
+      - href: My_Concepts/index.qmd
+        text: UAS-1
+      - href: My_Opinions/index.qmd
+        text: UAS-2
+      - href: My_Innovations/index.qmd
+        text: UAS-3
+      - href: My_Knowledge/index.qmd
+        text: UAS-4
+      - href: My_Professional_Reviews/index.qmd
+        text: UAS-5
+
   page-footer:
-    left: "© 2025 Riantama Putra – Institut Teknologi Bandung"
+    left: "© 2025 Riantama Putra – 18224061 – Sistem dan Teknologi Informasi ITB"
 
 format:
   html:

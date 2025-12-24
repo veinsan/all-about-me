@@ -1,58 +1,44 @@
-# UTS-1 All About Me
+# UAS - My Masterpiece: Bridging the Gap
 
-![About Me](../images/ya.jpeg){width=950%}
+![About Me](images/ya.jpeg){width=950%}
 
-Halo halo! Perkenalkan, saya Riantama Putra, mahasiswa Program Studi Sistem dan Teknologi Informasi, Institut Teknologi Bandung, Angkatan 2024.
-Melalui tugas *All About Me* ini, saya ingin mengenali diri saya lebih dalam, bukan hanya sebagai mahasiswa, tetapi juga sebagai pribadi yang sedang belajar memahami makna komunikasi, baik dengan diri sendiri maupun dengan orang lain.
+Halo kembali! Saya **Riantama Putra**, mahasiswa Sistem dan Teknologi Informasi ITB.
 
-## Tentang Saya
+Jika pada paruh pertama semester saya mengajak Anda menyelami siapa saya sebagai individu, kini saatnya saya melangkah lebih jauh. UAS ini bukan lagi tentang refleksi ke dalam (*inward looking*), melainkan tentang bagaimana saya memproyeksikan diri ke luar (*outward looking*) untuk memberi dampak nyata.
 
-Saya melihat diri saya sebagai seseorang yang rasional tetapi tetap hangat. Saya terbiasa berpikir dengan logika, namun tetap menghargai sisi emosional dalam setiap interaksi. Dalam percakapan, saya lebih suka mendengarkan terlebih dahulu dan mencoba memahami konteks sebelum menanggapi.
-Namun, saya juga menyadari bahwa terkadang saya terlalu berhati-hati, seolah takut dinilai salah. Dari sana saya belajar bahwa komunikasi bukan soal menjadi sempurna, melainkan soal berani hadir apa adanya dan mau memahami sebelum dipahami.
+Di bawah tema besar **"Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence"**, saya mempersembahkan *Masterpiece* saya: sebuah inisiatif untuk menjawab tantangan **Akses Pendidikan dan Literasi Global**.
 
-Saya percaya setiap orang memiliki cara unik untuk mengekspresikan diri. Bagi saya, berbicara adalah proses untuk jujur terhadap diri sendiri, dan mendengarkan adalah cara untuk memahami dunia dengan lebih luas.
+## Mengapa Pendidikan? Sebuah Identitas Naratif
 
-## Nilai dan Prinsip yang Membentuk Saya
+Dosen saya pernah berkata bahwa manusia adalah *storytelling organisms*. Kita hidup dari cerita yang kita rangkai. Namun, bagaimana seseorang bisa merangkai cerita hidupnya jika ia bahkan tidak bisa membaca kata-kata?
 
-Dalam hidup, saya berpegang pada tiga hal: **kejujuran, empati, dan tanggung jawab**.
-Kejujuran membuat saya bisa hidup tanpa berpura-pura. Empati membantu saya memahami sudut pandang orang lain tanpa langsung menghakimi. Dan tanggung jawab mengingatkan saya bahwa setiap kata yang diucapkan membawa konsekuensi.
+Data menunjukkan ada **750 juta orang dewasa** yang buta huruf dan **250 juta anak** yang tidak bersekolah. Bagi saya, ini adalah sebuah *tragedi naratif*. Mereka bukan tidak punya potensi, mereka hanya kehilangan alat untuk menuliskan kisah sukses mereka sendiri.
 
-Dari perkuliahan ini, saya memahami bahwa nilai-nilai ini menjadi dasar dalam *self-concept* dan *self-awareness*. Mengetahui siapa diri saya dan apa yang saya hargai membantu saya berkomunikasi dengan lebih sadar, terbuka, dan penuh tujuan. Saya juga belajar bahwa mendengarkan dengan niat tulus dapat menciptakan hubungan yang lebih bermakna dibanding sekadar berbicara panjang lebar.
+Sebagai mahasiswa STI, saya melihat ini bukan hanya sebagai masalah sosial, tapi sebagai *system error* yang masif. Saya merasa memiliki tanggung jawab - sebuah **Agensi** - untuk tidak hanya menjadi penonton, tetapi menjadi aktor yang menawarkan solusi.
 
-## Cara Saya Melihat Dunia dan Orang Lain
+## Masterpiece Saya: Teknologi yang Memanusiakan
 
-Saya melihat dunia sebagai ruang untuk belajar. Tidak semua pelajaran datang dari ruang kuliah, sebagian justru hadir lewat kesalahpahaman, kegagalan, atau percakapan sederhana.
-Setiap kali saya berinteraksi, saya berusaha untuk tidak hanya memahami kata-kata, tetapi juga perasaan dan makna yang tersirat di baliknya.
+Dalam portofolio UAS ini, saya mengembangkan konsep **"The Adaptive Learning Engine"**.
 
-Melalui teori komunikasi interpersonal, saya menyadari bahwa persepsi sering kali menjadi sumber kesalahpahaman. Konflik tidak selalu muncul karena niat buruk, tetapi karena perbedaan cara pandang. Karena itu, saya mencoba menerapkan prinsip **"clarify before judge"** yang memiliki arti mencari makna sebelum menyimpulkan.
-Pemahaman tentang persepsi ini membantu saya mengurangi prasangka dan memperkuat keterampilan empatik dalam berinteraksi.
+Ini adalah perpaduan antara logika teknis dan empati manusiawi - dua sisi yang selalu saya pegang teguh.
+* **Secara Rasional:** Menggunakan AI untuk mendemokratisasi akses pendidikan berkualitas yang selama ini mahal.
+* **Secara Emosional:** Memastikan teknologi tersebut tidak kaku, melainkan adaptif terhadap kebutuhan unik setiap pembelajar di daerah terpencil.
 
-## Kepribadian dan Kehidupan Sehari-hari
+## Transformasi Diri: Dari "Merenung" ke "Bertindak"
 
-Secara kepribadian, saya bisa dibilang cukup seimbang antara introvert dan ekstrovert. Saya nyaman bekerja sendiri, tetapi juga menikmati waktu bersama teman-teman yang punya energi positif.
-Di luar akademik, saya menikmati hal-hal sederhana seperti mendengarkan musik, bermain game, atau sekadar merenung sendiri. Momen-momen itu membantu saya memahami diri saya dan mengatur emosi dengan lebih baik.
+Nilai-nilai saya - **kejujuran, empati, dan tanggung jawab** - kini menemukan ujian nyatanya.
+* **Kejujuran:** Mengakui bahwa teknologi bukan solusi ajaib, tapi alat bantu yang butuh sentuhan manusia.
+* **Empati:** Merancang sistem bukan berdasarkan apa yang "keren" menurut programmer, tapi apa yang "dibutuhkan" oleh pengguna yang bahkan belum pernah memegang smartphone.
+* **Tanggung Jawab:** Memastikan solusi ini etis dan inklusif.
 
-Saya belajar dari topik komunikasi nonverbal bahwa keheningan juga bisa berbicara. Cara kita menatap, tersenyum, atau menunduk dapat menyampaikan pesan tanpa kata-kata. Karena itu, saya mulai lebih sadar terhadap bahasa tubuh saya dan mencoba menyesuaikannya agar selaras dengan pesan yang ingin saya sampaikan.
+## Harapan Melalui Karya Ini
 
-## Refleksi atas Diri dan Komunikasi
+Halaman-halaman berikutnya (My Concepts, My Opinions, My Innovations, My Knowledge) adalah bukti komitmen saya. Ini adalah cara saya mengubah narasi pesimisme (keluarga miskin tidak bisa sekolah) menjadi narasi penebusan (*redemption story*), di mana teknologi hadir sebagai jembatan menuju masa depan yang lebih baik.
 
-Selama mengikuti perkuliahan ini, saya belajar bahwa komunikasi sejati berawal dari kesadaran diri (*self-awareness*).
-Cara saya menilai diri sendiri ternyata memengaruhi cara saya mendengar, memahami, dan berbicara dengan orang lain. Saya belajar untuk tidak mencari penerimaan dari semua orang (*approval seeking*), tetapi untuk berbicara dengan niat tulus dan menghargai perbedaan perspektif.
-
-Saya juga mulai menerapkan *affirmation*, yaitu berbicara baik kepada diri sendiri. Satu kalimat positif kadang cukup untuk menenangkan pikiran dan membantu saya menghadapi situasi sulit dengan kepala dingin. Dari situ saya belajar bahwa komunikasi intrapersonal adalah pondasi dari hubungan interpersonal yang sehat.
-
-Dari materi *Listening* saya menyadari pentingnya menjadi pendengar aktif. Saya berusaha lebih fokus saat orang lain berbicara, memparafrasekan untuk memastikan pemahaman saya benar, dan menghindari kebiasaan *pseudolistening*.
-Dengan mendengar sepenuhnya, saya bukan hanya memahami pesan, tetapi juga menghargai manusia di baliknya.
-
-## Harapan dan Tujuan ke Depan
-
-Saya ingin menjadi pribadi yang tidak hanya cerdas secara teknis, tetapi juga bijak dalam berinteraksi.
-Saya ingin kemampuan komunikasi saya tidak berhenti pada penyampaian pesan, melainkan mampu membangun kepercayaan dan kerja sama.
-Saya berharap dapat menciptakan lingkungan yang terbuka, suportif, dan saling memahami, baik dalam konteks akademik maupun profesional.
-
-Bagi saya, komunikasi yang baik adalah cerminan kematangan diri. *All About Me* bukan sekadar tugas, tetapi proses belajar untuk tumbuh menjadi pribadi yang memahami diri sendiri, mampu mendengarkan, dan membawa nilai positif dalam setiap percakapan.
+Selamat datang di *Masterpiece* saya. Mari kita tulis ulang cerita pendidikan dunia, satu baris kode pada satu waktu.
 
 ---
 
-> “Menjadi pendengar yang baik kadang lebih sulit daripada menjadi pembicara yang hebat. 
-> Tetapi di sanalah kita belajar, bahwa memahami orang lain selalu dimulai dari keberanian untuk mendengarkan.”
+> *"Technology is best when it brings people together."* - Matt Mullenweg
+>
+> Dan bagi saya, teknologi terbaik adalah yang memberi suara bagi mereka yang selama ini tidak terdengar.

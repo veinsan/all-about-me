@@ -1,7 +1,56 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+**Struktur Kognitif Edu-Verse: Peta Pengetahuan untuk Literasi Global**
+
+![Knowledge Architecture](../images/oke.jpeg){width=950%}
+
+Untuk membangun *Masterpiece* **The Adaptive Learning Engine**, saya tidak bisa hanya mengandalkan insting teknis. Saya memerlukan landasan epistemologis yang kuat. Pengetahuan adalah deskripsi bahasa tentang realitas.
+
+Oleh karena itu, saya menyusun struktur pengetahuan ini menggunakan **Klasifikasi Taksonomi Bloom** yang dipetakan ke dalam dua jenis peta pengetahuan utama.
+
+## 1. Peta Pengetahuan Primitif (Primitive Knowledge Map)
+
+Ini adalah "Badan Pengetahuan" inti dari sistem saya. Fokusnya adalah pada pengetahuan deklaratif (fakta dan definisi) yang menjadi fondasi sistem. Tanpa memahami definisi ini, solusi tidak mungkin dibangun.
+
+* **Level 1 (Mengingat):**
+    * *Definisi Literasi:* Kemampuan mengidentifikasi, memahami, menafsirkan, membuat, dan mengomunikasikan menggunakan bahan cetak dan tertulis.
+    * *Definisi AI:* Simulasi kecerdasan manusia dalam mesin yang diprogram untuk berpikir seperti manusia.
+* **Level 2 (Memahami):**
+    * *Klasifikasi Gaya Belajar:* Visual, Auditori, Kinestetik.
+    * *Prinsip Cloud Computing:* Penyediaan sumber daya komputasi (server, penyimpanan, database) melalui internet ("the cloud").
+
+Peta ini menjawab pertanyaan **"Apa"** dari masalah buta huruf dan teknologi yang saya gunakan.
+
+## 2. Peta Pengetahuan Aplikatif (Problem-Solving Map)
+
+Ini adalah peta yang bersifat dinamis dan berorientasi proses. Peta ini memandu bagaimana *The Adaptive Learning Engine* bekerja memecahkan masalah langkah demi langkah. Ini mencakup level Bloom yang lebih tinggi:
+
+* **Level 3 (Menerapkan):**
+    * *Prediksi Kebutuhan:* Sistem memprediksi bahwa siswa yang gagal menjawab soal "A" kemungkinan besar belum paham konsep dasar "B".
+* **Level 4 (Menganalisis):**
+    * *Diagnosa Gap:* Mengurai alasan mengapa siswa di daerah 3T kesulitan mengakses materi video (analisis bandwidth vs kompresi data).
+* **Level 5 (Sintesis):**
+    * *Personalisasi Konten:* Menyusun elemen materi (teks + gambar) menjadi modul baru yang sesuai dengan kecepatan belajar siswa tersebut.
+* **Level 6 (Evaluasi):**
+    * *Validasi Pemahaman:* Menilai apakah siswa sudah benar-benar paham atau hanya menebak jawaban (deteksi *gaming the system*).
+* **Level 7 (Mencipta):**
+    * *Agensi Baru:* Merancang jalur belajar baru (*learning path*) yang unik bagi setiap individu.
+
+Peta ini menjawab pertanyaan **"Bagaimana"** teknologi mengubah siswa dari buta huruf menjadi berdaya.
+
+## 3. Resolusi Paradoks: "The Anti-Answer Constraint"
+
+Dalam merancang AI Tutor ini, saya menghadapi **Paradoks Pendidikan Rekayasa**: *Bagaimana kita menggunakan AI yang pintar tanpa membuat manusianya menjadi bodoh?*
+
+Jika AI Tutor langsung memberikan jawaban setiap kali siswa bertanya, maka AI menjadi semakin pintar, tetapi siswa tetap tidak berdaya. Agensi siswa akan mati.
+
+Untuk menyelesaikan ini, saya menerapkan prinsip pedagogis **"Anti-Answer Constraint"** dalam algoritma AI saya:
+1.  **Dilarang Memberi Jawaban Langsung:** Agen AI *Decision-making* dilarang memberikan solusi instan.
+2.  **Wajib Memberi Scaffolding:** AI diwajibkan memberikan *clue* atau pertanyaan pancingan yang memicu **Penalaran Otobiografis** siswa.
+
+Contoh interaksi sistem:
+* *Siswa:* "Apa jawaban soal ini?"
+* *AI Tutor (Salah):* "Jawabannya adalah B."
+* *AI Tutor (Benar/Valoraize):* "Coba perhatikan paragraf kedua. Apa yang terjadi pada tokoh utama? Kekuatan apa yang bisa kamu gunakan untuk menyimpulkannya?"
+
+Dengan struktur pengetahuan ini, teknologi tidak menggantikan proses berpikir, melainkan memprovokasi siswa untuk menjadi **Protagonis-Penulis** atas pembelajaran mereka sendiri.

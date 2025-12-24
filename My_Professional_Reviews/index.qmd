@@ -1,2 +1,22 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+Halaman ini berisi rekapitulasi penilaian (**Assessment**) untuk rangkaian tugas Masterpiece UAS saya.
+
+Sesuai instruksi, penilaian dilakukan melalui dua metode:
+1.  **Self-Assessment:** Penilaian diri sendiri menggunakan bantuan AI (ChatGPT/Gemini) berdasarkan rubrik.
+2.  **Peer-Assessment:** Penilaian manual terhadap karya 3 rekan sejawat.
+
+Silakan unduh detail skor dan evaluasinya pada file berikut:
+
+::: {.card .mb-3}
+::: {.card-body .text-center}
+### 📊 Lembar Skor Evaluasi (UAS-5)
+File ini mencakup skor Self-Assessment dan Peer-Assessment.
+
+[📥 Download UAS-5_Skor.xlsx](UAS-5_Skor.xlsx){.btn .btn-success .btn-lg}
+:::
+:::
+
+::: {.callout-note}
+**Status:** File telah diperbarui dengan hasil penilaian Self-Assessment via AI. Peer-Assessment akan dilengkapi secara manual saat sesi ujian berlangsung.
+:::

@@ -142,7 +142,7 @@
 #show: doc => conf(
   title: [Portfolio Asesmen II-2100 KIPP],
   authors: (
-    ( name: [18224061 Riantama Putra],
+    ( name: [131902360 Armein Z R Langi],
       affiliation: "",
       email: "" ),
     ),
