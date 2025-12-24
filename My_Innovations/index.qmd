@@ -1,7 +1,5 @@
 # UAS-3 My Innovations
 
-![Edu-Verse Architecture](../images/oke.jpeg){width=950%}
-
 **Judul: Edu-Verse: Ekosistem Pembelajaran Adaptif Berbasis Agensi**
 
 Inovasi nilai (*Value Innovation*) yang saya tawarkan bukanlah sekadar aplikasi e-learning biasa, melainkan sebuah sistem **Penciptaan Nilai Bersama** (*Value Co-creation*). Sistem ini dirancang untuk mengubah "beban belajar" menjadi "petualangan kognitif".

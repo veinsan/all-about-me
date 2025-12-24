@@ -2,8 +2,6 @@
 
 **Struktur Kognitif Edu-Verse: Peta Pengetahuan untuk Literasi Global**
 
-![Knowledge Architecture](../images/oke.jpeg){width=950%}
-
 Untuk membangun *Masterpiece* **The Adaptive Learning Engine**, saya tidak bisa hanya mengandalkan insting teknis. Saya memerlukan landasan epistemologis yang kuat. Pengetahuan adalah deskripsi bahasa tentang realitas.
 
 Oleh karena itu, saya menyusun struktur pengetahuan ini menggunakan **Klasifikasi Taksonomi Bloom** yang dipetakan ke dalam dua jenis peta pengetahuan utama.
