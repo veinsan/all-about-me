@@ -6,7 +6,7 @@ Apa itu beropini? Opini adalah "rebusan" dari informasi, nilai, dan perasaan. Be
 
 ## I. Krisis Model Konvensional di Tengah Kesenjangan Global
 
-Dunia pendidikan saat ini menghadapi **paradoks yang menyakitkan**. Di satu sisi, *Artificial Intelligence* (AI) telah berkembang menjadi **"Juru Tulis Cerdas"** yang mampu menulis esai dan kode program dalam hitungan detik. Namun di sisi lain, data menunjukkan **750 juta orang dewasa** di dunia masih buta huruf dan tidak mampu membaca satu kalimat sederhana pun.
+Dunia pendidikan saat ini menghadapi **paradoks yang menyakitkan**. Di satu sisi, *Artificial Intelligence* (AI) telah berkembang menjadi **"Juru Tulis Cerdas"** yang mampu menulis esai dan kode program dalam hitungan detik. [cite_start]Namun di sisi lain, data menunjukkan **750 juta orang dewasa** di dunia masih buta huruf dan tidak mampu membaca satu kalimat sederhana pun[cite: 99, 102].
 
 Model pendidikan konvensional—yang mengandalkan **infrastruktur fisik** (gedung sekolah), **kurikulum kaku** (satu ukuran untuk semua), dan **kehadiran sinkron**—**tidak lagi memadai** untuk mengejar ketertinggalan ini. Model ini gagal karena berasumsi bahwa semua siswa memiliki kecepatan belajar dan akses sumber daya yang sama.
 
